@@ -1,0 +1,13 @@
+.news-h2 {
+    border-bottom:  2px solid black;
+    margin: 0;
+    padding: 10px;
+}
+.header-block {
+    display: flex;
+    align-items:  center;
+    justify-content: space-between;
+}
+.title-block {
+    background-color: aliceblue;
+}

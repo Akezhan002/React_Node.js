@@ -1,0 +1,55 @@
+.container-posts {
+    padding: 10px;
+}
+.addPost {
+    padding: 7px;
+    border-radius: 8px;
+    border: 1px solid;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+.img-post {
+    width: 120px;
+    border-radius: 12px;
+}
+.post-block {
+    display: flex;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    align-items: center;
+}
+.titls-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 6px;
+}
+.date {
+    margin-right: 15px;
+}
+.btn-pod {
+    margin-right: 15px;
+    border-radius: 10px;
+    border: 1px solid;
+    padding: 5px;
+}
+.btn-pod2 {
+    border-radius: 10px;
+    border: 1px solid;
+    padding: 5px;
+}
+.pod-title {
+    margin: 10px;
+    display: flex;
+}
+.post-item {
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 10px;
+    list-style: none;
+    background-color: aliceblue;
+}

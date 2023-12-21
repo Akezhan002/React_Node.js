@@ -1,0 +1,47 @@
+.submit {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    height: 500px;
+}
+.sub {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.sub-in {
+    margin-left: 20px;
+    border-radius: 6px;
+    border: 1px solid;
+    padding: 6px;
+    font-weight: 500;
+}
+.sub-text {
+    margin-left: 20px;
+    border-radius: 6px;
+    border: 1px solid;
+    padding: 6px;
+    font-weight: 500;
+}
+.onSave {
+    padding: 6px;
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+.containerAdd {
+    border:  1px solid;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+}
+.addne {
+    border-bottom: 1px solid;
+}
+h5 {
+    margin: 0;
+    padding: 0;
+}
